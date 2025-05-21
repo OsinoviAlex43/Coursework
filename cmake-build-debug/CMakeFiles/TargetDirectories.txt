@@ -1,0 +1,3 @@
+D:/Programming/Projects/KURSACH/cmake-build-debug/CMakeFiles/KURSACH.dir
+D:/Programming/Projects/KURSACH/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/Projects/KURSACH/cmake-build-debug/CMakeFiles/rebuild_cache.dir
