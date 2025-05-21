@@ -195,9 +195,9 @@ int main() {
     cout << "Comparing search methods: Barrier Search vs Interpolation Search\n";
     cout << "Using multiple threads for faster search\n\n";
 
-    thread t1(runExperiment, 1000);
-    thread t2(runExperiment, 10000);
-    thread t3(runExperiment, 100000);
+    thread t1(runExperiment, 50);
+    thread t2(runExperiment, 100);
+    thread t3(runExperiment, 200);
 
     t1.join();
     t2.join();
@@ -206,4 +206,3 @@ int main() {
     return 0;
 }
 
-} // end namespace std
